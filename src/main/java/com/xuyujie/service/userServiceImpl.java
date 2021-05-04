@@ -12,6 +12,7 @@ public class userServiceImpl implements userService{
         System.out.println(456);
         System.out.println("master");
         System.out.println("hoot");
+        System.out.println("last");
     }
     @Autowired
     private userDao userDao;
